@@ -50,9 +50,13 @@ Observations
 ## Alert Details
 
 Rule Triggered- Authentication Failure
+
 Event ID- 4625
+
 Severity Level- 5 Medium 
+
 Source IP- 192.168.X.X
+
 Target System- Windows 10
 
 ---
