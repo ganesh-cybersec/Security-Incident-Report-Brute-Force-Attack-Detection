@@ -18,8 +18,11 @@ This report documents a simulated brute force attack performed from a Kali Linux
 ## Lab Environment
 
 Attacker Machine- Kali Linux
+
 Target Machine- Windows 10
+
 SIEM Tool- Wazuh
+
 Virtualization- VirtualBox
 
 ---
