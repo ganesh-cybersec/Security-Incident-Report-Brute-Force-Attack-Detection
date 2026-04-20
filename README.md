@@ -1,4 +1,4 @@
-## SOC Incident Report: Brute Force Attack Detection (Hydra)
+### SOC Incident Report: Brute Force Attack Detection (Hydra)
 
 ## Overview
 
